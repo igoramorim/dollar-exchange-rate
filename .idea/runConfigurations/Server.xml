@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Server" type="GoApplicationRunConfiguration" factoryName="Go Application">
+    <module name="dollar-exchange-rate" />
+    <working_directory value="$PROJECT_DIR$" />
+    <kind value="FILE" />
+    <package value="github.com/igoramorim/dollar-exchange-rate" />
+    <directory value="$PROJECT_DIR$" />
+    <filePath value="$PROJECT_DIR$/cmd/server/main.go" />
+    <method v="2" />
+  </configuration>
+</component>
